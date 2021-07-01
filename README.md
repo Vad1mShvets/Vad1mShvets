@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning C++ (at university) and C# (for myself);
 - 💞️ I’m looking to collaborate on gamedev companies;
 - 📫 How to reach me: 
-phone: +380-99-207-42-23;
+phone: +380992074223;
 e-mail: shvetsgamedev@gmail.com
